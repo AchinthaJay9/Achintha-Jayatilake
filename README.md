@@ -96,7 +96,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AchinthaJay9&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchinthaJay9&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="![AchinthaJay9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchinthaJay9&theme=dracula&show_icons=true&hide_border=false&layout=compact)" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchinthaJay9&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="150" alt="streak graph"  />
 </div>
 
 ###
